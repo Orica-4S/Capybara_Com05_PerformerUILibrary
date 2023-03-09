@@ -1,0 +1,14 @@
+﻿{
+  "Id": "OfdfeKfIVEeHQoj9vKWYmA",
+  "Reference": "RSCQSW0NYU6Hy1UR2uoQSg/OfdfeKfIVEeHQoj9vKWYmA",
+  "ParentRef": "RSCQSW0NYU6Hy1UR2uoQSg/CN8vzASzAEeMblbely7Dxg",
+  "Name": "Input-Directory",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-02-27T07:45:50.4267677Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:45:50.4267677Z"
+}

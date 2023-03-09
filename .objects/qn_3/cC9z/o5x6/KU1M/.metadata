@@ -1,0 +1,14 @@
+﻿{
+  "Id": "KU1MQZtVN0qj_sm6F4A5lQ",
+  "Reference": "RSCQSW0NYU6Hy1UR2uoQSg/KU1MQZtVN0qj_sm6F4A5lQ",
+  "ParentRef": "RSCQSW0NYU6Hy1UR2uoQSg/o5x6wXCLxUGckDq6l35KMA",
+  "Name": "Title-Credit Exposure",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-27T07:45:50.8157657Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:45:50.8157657Z"
+}

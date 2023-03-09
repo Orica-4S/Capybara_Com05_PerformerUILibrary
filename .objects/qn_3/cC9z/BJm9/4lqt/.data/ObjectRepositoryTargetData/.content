@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HvnEpJ_ZA0OxyF1GSGWKmw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="360, 188, 133, 25" DesignTimeScaleFactor="1" ElementType="InputBox" FriendlyName="'CTextField Business'" FullSelectorArgument="&lt;sap id='usr/ctxtO_BUPA-LOW' tooltip='Business Partner Number' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/ctxtO_BUPA-LOW' tooltip='Business Partner Number' /&gt;" Guid="bfa9149b-41bc-4bf1-8e81-b179d772aaa7" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAIkAAAAdCAYAAACe00+cAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB9SURBVGhD7dIxCoRAAARB//+pfZKJiZGXiQbakRwLVTAvmF7WbT/M3iYSy52RjDFssl2P/HK3SJiHSEgiIYmEJBKSSEgiIYmEJBKSSEgiIYmEJBKSSEgiIYmEJBKSSEgiIYmEJBKSSEgiIf0tEptr1yO/3BmJ2dNEYrH9+AFQInKRJf+b1gAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' title='SAP Credit Management: Credit Exposure List' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0e058341494ebb74ebeb7eeea7f1797e.png" xmlns="">0HDjh43BCPki2ZWy7xsSL8Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

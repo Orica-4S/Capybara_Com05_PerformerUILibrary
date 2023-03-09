@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9MCkXHzTkUGkqCYq32Zavg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1094, 99, 58, 26" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'More'" FullSelectorArgument="&lt;sap id='tbar[1]/btnvhmore' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[1]/btnvhmore' check:text='More' /&gt;" Guid="5627f200-6259-43d0-8777-7079e335a185" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Commitment' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ebeed7f8f5322104cc7142c4b303339e.png" xmlns="">0RiXmKz6ZFUegl8I6ZNGIaw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

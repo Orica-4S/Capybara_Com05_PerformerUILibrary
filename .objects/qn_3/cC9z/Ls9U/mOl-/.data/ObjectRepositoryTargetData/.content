@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mIPg4kGzdEySCAX68M0HZw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="674, 99, 26, 26" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Button Microsoft'" FullSelectorArgument="&lt;sap id='tbar[1]/btn[43]' tooltip='Microsoft Excel   (Ctrl+Shift+F7)' type='GuiButton' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[1]/btn[43]' tooltip='Microsoft Excel   (Ctrl+Shift+F7)' type='GuiButton' /&gt;" Guid="45f0482f-58af-43a7-b8b0-0138537df78a" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAD7SURBVEhL7ZIrEoMwEEB7qB4G22Mwg+8JmEFwhuA4AIILMEg0EoNBbZOQNEA+bBuamohn8tm3v9s0L/APojgYURwMtLgjJdwfTztZA53hnw2UWEkrqA3309xDar0zcyreVxpIrLc3kDjdSSkfztHFidhdRZ2zhEooBnnGKscl6CWe5hGKTInWRHAtPxe3FW9z2qpqaj57UenQQCJHwd/pcUz4i+m79xLmvRbDhmerGSIhDq7NDO+K1Vz38zbF2+InJvJO/BHzTsioxTri0WpaITHPtCM0OcP5lkuW6xsuWC4GSwr7dsUp5svCqsSAXCqJU/xLojgYURyIBV7ZN+bkF4R1aQAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' title='Commitment' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f3a817af787cc573fee15cb79647a020.png" xmlns="">0qCOlSTMkgkSfaINsjNKSoA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

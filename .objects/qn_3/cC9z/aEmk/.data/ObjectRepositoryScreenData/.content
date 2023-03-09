@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="fb8ce8oh0ESIdi-1Tc5K_Q" Reference="BqPKNjmy6U-lEpgbHo9g-A/aEmkdUvdsEeXkXHGkt3l2w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" ContentHash="d2wPwIn-BESrDHKr-YpotA" FilePath="C:\Program Files (x86)\SAP\FrontEnd\SapGui\saplogon.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACRSURBVDhPY/j//z8jJXg4GOBUs6YYiB+SiWtBBjQD8X8y8Gzn2jWsDOuP3z49YdO5//hwx+qT/11qVmNoBnvh/Zef//Hh52+//M/sW/vfoWolhmaCBoA0Z/QCNVeugGt2qVsL1ww2oHLe3vlJPev/Y8MhTSvxagYbAJQgJhCBmhHORjeAUDROxWYzDI/mhf+MAIdY0dsgJya3AAAAAElFTkSuQmCC" Reference="BqPKNjmy6U-lEpgbHo9g-A/aEmkdUvdsEeXkXHGkt3l2w" Selector="&lt;wnd app='saplogon.exe' title='Save As' idx='*' /&gt;">
+      <imageRef attrName="InformativeScreenshot" originalValue="bfb0100f2171eb917d87e17c6693e311.png" xmlns="">0AVyloyy7Wk6QbDPm8gbqTQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

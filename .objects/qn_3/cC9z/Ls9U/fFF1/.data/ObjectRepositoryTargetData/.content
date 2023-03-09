@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="m-WO2Niq8UK6aq7jAUdAlw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="3, 100, 248, 32" DesignTimeScaleFactor="1" FriendlyName="'Export'" FullSelectorArgument="&lt;ctrl name='List' role='popup menu' /&gt;&lt;ctrl name='Export' role='menu item' /&gt;" FuzzySelectorArgument="&lt;ctrl name='List' role='popup menu' /&gt;&lt;ctrl name='Export' role='menu item' automationid='' check:text='Export' /&gt;" Guid="8b90e165-f39d-4567-85c4-6ba051fd71b1" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAPwAAAAkCAYAAACtxlclAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHySURBVHhe7dgxTsMwFIDhHArlPLkG4gA+QDem7mZnYmIPS9feoTcwceImjvNoaTLUzvstfRLUDmL5Y7vV5XJxHoPB2Nc4Ho9927Ex+PP5DGBHbgYPYF/i4K+D4IGdInhAEYIHFCF4QBGCBxQheEARggcUIXhAEYIHFCF4oCCnj3f38vblTsLcf2QQfOtMXbmqStXOtNJ6QLct0WcTfG1aYe4Zhv+nsdIckIe10RP8AsGjDGuizz741tTd8b5xdvzMuqY78g/r/c/d0d8aV/95FRjWT1eF9G91603Tz9XG9v/LuLY2rh3XAvl5NPp87/BRbLbpfm/s4ucx5mjt/AUR/va4Pp0Pz0fz18/Y4VGKz4Nxr9/yXKqQI304ZjfdTjzbdaU4o8+s37njHT2Zv/f87DkgPz72l8OPOCcp5w7fxyvFmR7hw8vhGvziWB7Ni88TPMrwaOxeIcGHCI2/qy/v88uXQBT83R2e4FGeNbF7RQQf39v7O/i4aw9xbrvDEzzKsjZ2L98v7Tr+JdDHPjuWxxGHYMO37AM54Gk+PSGk68MLxq9dXAeA59oSu5dB8FvIwQKQPT34aeeVSc9MCB54BDs8oEjhwQN4BMEDihA8oAjBA4oQPKAIwQOKEDygCMEDitwMnsFg7GsQPIOhaCyDd+4XtDLFuDqpRg0AAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32768' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="89bec302b1909deaed156f9f72cbb1c1.png" xmlns="">074IVIsPdzkeBpSIAbRPNAQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

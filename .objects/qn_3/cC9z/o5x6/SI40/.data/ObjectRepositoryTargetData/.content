@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hBp6OUwnH0GfpEsR9M1yNQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1094, 99, 58, 26" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'More'" FullSelectorArgument="&lt;sap id='tbar[1]/btnvhmore' text='More' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[1]/btnvhmore' text='More' check:text='More' /&gt;" Guid="ace1795d-6f39-4d53-96d9-679e64120385" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAD4AAAAeCAYAAAB0ba1yAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFfSURBVFhH7ZU7bsMwDEB7qB4ma45hIHtOYMBDzuBsOUAGXyDImDljly6eWFGmZX3oignaogg5PMAJRZmPopK3j88RNGLi2jBxbZi4NkxcGyZecodut4f37QG6Gxe/QrN18d0ZLkXs/yMQ38Omv5fx4ehjLyvetCh4hNNa7K/Fb2fYuIY3AxPLOLXrB1MXH6aRTl7kX+6agaeebEzjH4gbhjF3bfppUpYpWiarzFlBIO+l2ysbQwTiI1z6Q7JJ+JyIk0C+LohQU5JiVnJEU8QcCFGTRkTi4YTD9/SDF4v7O5+fVlwcU2g1p0a5ViKNyMTp2Y8nNiGW5Z7ZPbDI7B/Ci7tCGWTiyCIvlUaE4g4S69zm4X7m4tUT58TznGeY3iOVRuTi8+Zx8bE4rS/uaxBjxJmc9Fr9Hg+IM6OUiCNzc2ZiAU4cIfmQw635eb4Rf21MXBsmrg0T14aJa0Op+Ahfpag9lWbr4sAAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' title='Credit Exposure' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ebeed7f8f5322104cc7142c4b303339e.png" xmlns="">0LtRMP2lDpUi93u_OBZ95MQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

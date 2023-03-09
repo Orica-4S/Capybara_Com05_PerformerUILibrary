@@ -1,0 +1,14 @@
+﻿{
+  "Id": "aQikl-UV_kShUMCj2W9-5Q",
+  "Reference": "RSCQSW0NYU6Hy1UR2uoQSg/aQikl-UV_kShUMCj2W9-5Q",
+  "ParentRef": "RSCQSW0NYU6Hy1UR2uoQSg/BJm95o_M-k2Hz3EumTgXOg",
+  "Name": "Input-Credit Segment",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-02-27T07:45:50.9771446Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:45:50.9771446Z"
+}

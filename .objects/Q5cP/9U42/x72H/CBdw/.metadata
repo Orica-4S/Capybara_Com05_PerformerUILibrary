@@ -1,0 +1,16 @@
+﻿{
+  "Id": "CBdwoiNlukGGmrpMm9R3tA",
+  "Reference": "RSCQSW0NYU6Hy1UR2uoQSg/CBdwoiNlukGGmrpMm9R3tA",
+  "ParentRef": "RSCQSW0NYU6Hy1UR2uoQSg/x72HahtX2EqrpA7sGX1HdA",
+  "Name": "File Available Popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-27T07:45:51.8288871Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:45:51.8288871Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

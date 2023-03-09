@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="x1zCRGiAjEqoBpgup2BSIQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="360, 220, 109, 25" DesignTimeScaleFactor="1" ElementType="InputBox" FriendlyName="'CTextField Credit'" FullSelectorArgument="&lt;sap id='usr/ctxtO_CRSGM-LOW' tooltip='Credit Segment' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/ctxtO_CRSGM-LOW' tooltip='Credit Segment' /&gt;" Guid="755cef55-a559-4bfc-97ac-fda43c953343" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAHEAAAAdCAYAAACdSIPxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABuSURBVGhD7dGhDYBQFMBA9l/qj4TBoMBhgAFec006wW37cV6ePcTAD+Jay8P+RNScIAaCGAhiIIiBIAaCGAhiIIiBIAaCGAhiIIiBIAaCGAhiIIiBIAaCGAhiIIiBIAaCGOgX0bN+IXruEMd/XjeWCfaEmPtqsAAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' title='SAP Credit Management: Credit Exposure List' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="80a64e68a64608b0bc4f8acd9f44c819.png" xmlns="">0QBE8YfkYekOWmTQGzpcXMg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5urR8iY08EKkYAyH_y4blQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="201, 410, 237, 15" DesignTimeScaleFactor="1" ElementType="InputBox" FriendlyName="'Edit'" FullSelectorArgument="&lt;wnd ctrlid='1148' /&gt;&lt;wnd ctrlid='1148' /&gt;&lt;wnd aaname='File name:' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1148' /&gt;&lt;wnd ctrlid='1148' /&gt;&lt;wnd aaname='File name:' /&gt;" Guid="ab0f3237-e5db-4224-a782-4682bb739d64" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAPEAAAATCAYAAABBR+uAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABRSURBVHhe7dNBDQAwEASh8296+6uHScADNyBNYoj7ie98hiKJIU5iiJMY4iSGOIkhTmKIkxjiJIY4iSFOYoiTGOIkhjiJIU5iiDMX4iSGtO0BZeAby95jgTsAAAAASUVORK5CYII=" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='msedge.exe' title='Open' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="138, 409, 54, 15" ElementType="Text" FriendlyName="'File &amp;name'" FullSelectorArgument="&lt;wnd ctrlid='1090' title='File &amp;amp;name:' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1090' title='File &amp;amp;name:' check:text='File &amp;amp;name:' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADoAAAATCAYAAADBGB7WAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEASURBVFhH7VPRFcMgCHQq52EbhnEXZ3EDKokmaIkmTT8a68e9hwaOuwgmhED/gGl0NEyjo0EYdQTGkBGw6Cl4JGssoc85OX4WKqM9E9Poz+OEUXlf5SxjnUcdyBV1jJSPUK5D+u5gXxMDrqxxOze4QB6tyqFqcLGfRfI5J6K5o9zg2KiMIyJ5IUByZhMsoPVDNt5Yk4UuNcJcwXGggXPaRkWRei/i4k8mbK+i1SrnZGKF0qPHcUrDiptGtdeR6InM9Z7QKj0ucbRxY0c5rvblDTWnOMvxWgRrPXpnjhUNXx1d/laPzqXR5VdMdRYIPnlRPmsa2kbHxjQ6GqbRsRDoBaFqBwMxkChkAAAAAElFTkSuQmCC" SearchSteps="Selector, FuzzySelector, Image" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3483adebb520a4f7a3097264e7cc607d.png" xmlns="">0Hi-q_mj5mkSWdU4PhxDJcw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

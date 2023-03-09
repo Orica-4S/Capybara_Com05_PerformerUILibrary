@@ -1,0 +1,15 @@
+﻿{
+  "Id": "VHRUng9hY0iDNCB5F39NUA",
+  "Reference": "RSCQSW0NYU6Hy1UR2uoQSg/VHRUng9hY0iDNCB5F39NUA",
+  "ParentRef": "RSCQSW0NYU6Hy1UR2uoQSg/9U42PEb_HEGNezUdOmTIgg",
+  "Name": "Upload Document Window",
+  "Type": "Screen",
+  "Created": "2023-02-27T07:45:51.9772298Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:45:51.9772298Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

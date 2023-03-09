@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6DZkF8POX0O76lDI2QToyw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="473, 368, 26, 26" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Button Continue (Enter)'" FullSelectorArgument="&lt;sap tooltip='Continue   (Enter)' type='GuiButton' /&gt;" FuzzySelectorArgument="&lt;sap tooltip='Continue   (Enter)' type='GuiButton' /&gt;" Guid="aad1f1c6-004f-4ac4-abf0-6f0b80432824" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAD9SURBVEhL7ZPNDYMgFMe7D4c6gAO4AMuQuIVXFnAJ4xCeevDuBJqQvD4+rJTQgtbSQzH5JX48/MH/weVaVvALsjgZWZyMLD6MAHMJ/3eXU8QFWseeAqkp8Anls7/O5mNxMaNo4kBrgmICtL99X1yUC1pH4M0qHfF58da6RImlYPasQi62a7WUNByngIt1al4RFD+ibDu82X6s3g9MS01vhTUuRFAsrCiJkgsTcQdMSU3Ekbt5JW7FlkTLrYjNZHxj3xHXY2fnbjCc0r6IV6LEEnlWt55q2CCt/voQ0WLJk/xgxCu7xBLV8qFTEcceHR+7xWeRxcnI4mT8m7iCO5CWWZ48EoMMAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' title='Select Spreadsheet' idx='*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="49a503fcf3768aed3ec1e26891a1aa05.png" xmlns="">0HqbcVx25U0um1x4aNmR1SA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

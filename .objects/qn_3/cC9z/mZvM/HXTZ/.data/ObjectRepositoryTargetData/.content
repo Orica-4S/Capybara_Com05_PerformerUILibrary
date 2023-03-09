@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OJE31-HJlU2spjI3_X_WGg" Reference="BqPKNjmy6U-lEpgbHo9g-A/HXTZduXcf06dvjrgWuStLQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" ContentHash="Nkj8MeAcBUizMfAQw3TdNw" DesignTimeRectangle="0, 0, 0, 0" FullSelectorArgument="&lt;wnd app='saplogon.exe' omit:cls='SAP_FRONTEND_SESSION' title='SAP' /&gt;" Guid="24aeacc1-07d0-4fd7-b155-84e22debb512" Reference="BqPKNjmy6U-lEpgbHo9g-A/HXTZduXcf06dvjrgWuStLQ" SearchSteps="Selector">
+      <imageRef attrName="InformativeScreenshot" originalValue="1cf839bcccaf3c9e10ec6d86cb96b927.png" xmlns="">0GourSnAVn0-hTxq_ERixjg</imageRef>
+    </TargetAnchorable>
+    <p:InArgument x:TypeArguments="ui:WaitForReady" x:Key="ClassicWaitForReady" />
+    <x:Boolean x:Key="IsClassic">True</x:Boolean>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

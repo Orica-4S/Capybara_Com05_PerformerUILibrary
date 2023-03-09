@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iglKe7ut3EGbiIgUm04D8A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="212, 99, 26, 26" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Button Execute (F8)'" FullSelectorArgument="&lt;sap id='tbar[1]/btn[8]' tooltip='Execute   (F8)' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[1]/btn[8]' tooltip='Execute   (F8)' /&gt;" Guid="c456118d-b79f-4b7e-9d29-8d522c461583" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAD/SURBVEhL7ZUxDoMwDAD7KB7DyjOQ2PsCJAbeABsPYOADiJGZsUsXJpcQIkHr2A6gdMlwEsIoFye2ebzeM/yDIPZGEHvDUTxBkT0hSo7E1YR8SyMWN7mWpJ1bzIZAvGWZD0hszwCpQ/asuK9KgdSg5CUUIxY7QovHFuKkhubrvdqMNbOuhihrocdiO0ixTUCK16vhsybFtgVosWKC/oo4RY5ZwYt5Tov3fWy4rZ0kd3WWU8XF0VQXq9rWThTmGrgN0+KFdSHpAFE9LJAqWLEZmfhiekxG66lsz8JNCsQa/SPAis3IFwQTyyAWazbJj0C9d6sFR/F9BLE3gtgTM3wAeVE0RgR9bUAAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' title='SAP Credit Management: Credit Exposure List' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="cb44644d83b6b8286c00e7ec06e92122.png" xmlns="">0KAZjaJS1uUaKnp2_FNOyvQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

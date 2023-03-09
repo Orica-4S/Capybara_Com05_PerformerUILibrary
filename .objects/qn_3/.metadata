@@ -1,0 +1,11 @@
+﻿{
+  "Id": "qn_3vXQgg06xLzuC0I3U2w",
+  "Reference": "RSCQSW0NYU6Hy1UR2uoQSg/qn_3vXQgg06xLzuC0I3U2w",
+  "Name": "SAP GUI",
+  "Type": "App",
+  "Created": "2023-02-27T07:45:50.3123141Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:45:50.3123141Z"
+}

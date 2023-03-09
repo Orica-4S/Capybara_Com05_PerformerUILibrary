@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2Lwj-gBCekeIg1PX_9inVQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="3, 36, 242, 32" DesignTimeScaleFactor="1" FriendlyName="'List'" FullSelectorArgument="&lt;ctrl name='Context' role='popup menu' /&gt;&lt;ctrl name='List' role='menu item' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Context' role='popup menu' /&gt;&lt;ctrl name='List' role='menu item' automationid='' check:text='List' /&gt;" Guid="35cf863c-3817-4b28-99bf-53b72b42a6cf" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAPYAAAAkCAYAAAC65MfsAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFuSURBVHhe7dixbcMwFEVRDmVoHq4RZAAO4C6VeqVPlSo907jVDtrgx7RixbJUCAYhky/3A6chaXcXFOiGYbC2bY1hmPon9ZxMYfd9D6Byi7CvCwDqR9iAIMIGBBE2IIiwAUGEDQgibEAQYQOCCBsQRNiAIMIGnuz0/maH1087rew9auewo4XGWRPici8Ga5wz392tA/9A7rgrC3v8PfFDUc64ywl7E8KGtlxxFxR2Z941FuLfOXe+wS98t1xrgsXFfwD1yxF3mWF3fhZu56/BpzPc2ND3cQz28rW+t0W5Ya8GTNjQl6I+HL9X97Yq9FP87Pcxbf7ZTdjQliPqpNywJ7e/IWzoyhV1UmTYMTSzM50nbGjLGXXylLCnl+2ry6v37Y09Bjztzx7SlmtAzXJHnewcNoA97Br2dAOvWDsP4DHc2IAgwgYEETYgiLABQYQNCCJsQBBhA4IIGxBE2ICgKWyGYeofwmYYwRnDHuwHKOIhwoYu9R8AAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32768' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4196cd558ef078ffa8f21ea9d91a0c89.png" xmlns="">0Okn-TbufSEONFzgs88kGUw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

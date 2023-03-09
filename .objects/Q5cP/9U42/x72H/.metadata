@@ -1,0 +1,15 @@
+﻿{
+  "Id": "x72HahtX2EqrpA7sGX1HdA",
+  "Reference": "RSCQSW0NYU6Hy1UR2uoQSg/x72HahtX2EqrpA7sGX1HdA",
+  "ParentRef": "RSCQSW0NYU6Hy1UR2uoQSg/9U42PEb_HEGNezUdOmTIgg",
+  "Name": "SharePoint Page",
+  "Type": "Screen",
+  "Created": "2023-02-27T07:45:51.6853044Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:45:51.6853044Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

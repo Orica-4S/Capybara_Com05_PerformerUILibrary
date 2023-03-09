@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gzIfbPgbXkyYYoxPIIHsgQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="616, 176, 71, 26" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Generate'" FullSelectorArgument="&lt;sap text='Generate' type='GuiButton' /&gt;" FuzzySelectorArgument="&lt;sap text='Generate' type='GuiButton' check:text='Generate' /&gt;" Guid="9ad2f26f-8728-4914-b274-269fdbbb1b4e" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAEsAAAAeCAYAAABkDeOuAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFcSURBVGhD7ZZRboMwDIZ3o3EADsDNK3oLpN2hUvfAmhAnhjqJ/61Sq+5/+B5IbMd8GNqPz3FaiQ/KAqAsAMoCoCwAygKgLADKAqAsAMoCgGQN43U9f33vWezYd8Qta1hE0KW59ioM4+XhD9MlKx9sSDm96HQ9T5ZMkOPgIrYw5z3jNdaTCuVueWW6E7cerTqnTn0PkKxe4dLMNa/FybuxNSs3vO3rumhuzJec9BAlfquX4tNer76stfi1rDkdJMQGjTjd9N0NyFSEPTDXYi/fPqtWX9Za/Pk13DUocRbGDeu6aK4g06FpyTI51KwBfuDLCAu70VfijnEBjyxvblxT+fq6JatW34NLViA3Zv51kAbvpXpuIMoCc4/74Rr9Zh3ze7hlBXIDijmtyYGlKUVuuC4Lza3Gqxj9Xa39Gup6PSBZ/x3KAqAsAMoCoCwAygKgLADKAqAsAMpyM60/ffHCJvKJJXIAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' title='Commitment' idx='*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6627e6aa39b110d10df031bb485c71d9.png" xmlns="">0WmMTXhxUVkWL74O6BE1g5w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "6lJPe-eszkutzKgQhZ8nCQ",
+  "Reference": "RSCQSW0NYU6Hy1UR2uoQSg/6lJPe-eszkutzKgQhZ8nCQ",
+  "ParentRef": "RSCQSW0NYU6Hy1UR2uoQSg/zDLjmVd5Wka1tecZZsbWJg",
+  "Name": "Popup-Check Spreadsheet",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-27T07:45:51.4177865Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:45:51.4177865Z"
+}

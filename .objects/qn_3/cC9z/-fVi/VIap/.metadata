@@ -1,0 +1,14 @@
+﻿{
+  "Id": "VIapw6_s-0e2rIqOcAuR6A",
+  "Reference": "RSCQSW0NYU6Hy1UR2uoQSg/VIapw6_s-0e2rIqOcAuR6A",
+  "ParentRef": "RSCQSW0NYU6Hy1UR2uoQSg/-fViFuHDpUSAFUP3Em_Rkg",
+  "Name": "Business Partner Name",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-27T07:45:51.0774112Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:45:51.0774112Z"
+}

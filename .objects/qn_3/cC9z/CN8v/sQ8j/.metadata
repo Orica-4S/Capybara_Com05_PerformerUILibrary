@@ -1,0 +1,14 @@
+﻿{
+  "Id": "sQ8jT123JkSKd8_yWzRkPg",
+  "Reference": "RSCQSW0NYU6Hy1UR2uoQSg/sQ8jT123JkSKd8_yWzRkPg",
+  "ParentRef": "RSCQSW0NYU6Hy1UR2uoQSg/CN8vzASzAEeMblbely7Dxg",
+  "Name": "Popup-Export",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-27T07:45:50.4899829Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:45:50.4899829Z"
+}
